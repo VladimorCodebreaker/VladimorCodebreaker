@@ -20,4 +20,4 @@ Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated an
 
  <br />
 
-<img src="https://media.tenor.com/3orieGDxeMgAAAAM/gamer.gif" width="20%">
+<img src="[https://media.tenor.com/3orieGDxeMgAAAAM/gamer.gif](https://thumbs.gfycat.com/BaggyGrayGopher-size_restricted.gif)" width="20%">
