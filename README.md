@@ -20,4 +20,4 @@ Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated an
 
  <br />
 
-<img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/09/anime-thank-you.gif?fit=500%2C271" width="20%">
+<img src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2018/09/anime-thank-you.gif?fit=500%2C271">
