@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://25.media.tumblr.com/7ec8a5f476bf3eb7f19726316192d5e9/tumblr_mk7dnxrR6I1qcmi8ro1_500.gif" width="413" height="235" />
 
-Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated and passionate developer with a strong background in various programming languages and technologies. <br>I am always looking to learn new skills and take on challenging projects. <br>My experience includes building web applications, working with databases, and developing automation tools. <br>I am committed to writing clean, efficient, and maintainable code. <br>Take a look at my portfolio and feel free to reach out if you have any questions.<br>Cheers 🫠
+Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated and passionate developer with a strong background in various programming languages and technologies. <br>I am always looking to learn new skills and take on challenging projects. <br>My experience includes building web applications, working with databases, and developing automation tools. <br>I am committed to writing clean, efficient, and maintainable code. <br>Take a look at my portfolio and feel free to reach out if you have any questions.<br><br>Cheers 🫠
 
 <br>
 
