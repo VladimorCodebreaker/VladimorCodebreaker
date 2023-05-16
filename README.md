@@ -1,6 +1,6 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About Me:
 
-<img align="right" alt="GIF" src="https://25.media.tumblr.com/7ec8a5f476bf3eb7f19726316192d5e9/tumblr_mk7dnxrR6I1qcmi8ro1_500.gif" width="413" height="235" />
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif" width="413" height="235" />
 
 Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated and passionate developer with a strong background in various programming languages and technologies. <br>I am always looking to learn new skills and take on challenging projects. <br>My experience includes building web applications, working with databases, and developing automation tools. <br>I am committed to writing clean, efficient, and maintainable code. <br>Take a look at my portfolio and feel free to reach out if you have any questions.<br><br>Cheers 🫠
 
