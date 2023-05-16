@@ -18,5 +18,6 @@ Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated an
   ## 💰 You can help me by Donating :)
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vova0606) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ <br />
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
