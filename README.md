@@ -18,6 +18,4 @@ Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated an
 ## 💰 You can help me by Donating :)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vova0606) 
 
- <br />
-
-**Me, right now -> **<img src="https://media.tenor.com/LkQzw7k5DV4AAAAd/anime-hacking.gif" width="20%">
+<img src="https://media.indiedb.com/images/groups/1/1/84/tumblr_mz8w9gxDNZ1sz6ufao1_500.gif" width="20%">
