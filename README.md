@@ -25,4 +25,4 @@ Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated an
 <br>
 <img src="https://media.indiedb.com/images/groups/1/1/84/tumblr_mz8w9gxDNZ1sz6ufao1_500.gif" width="20%">
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+![Anime GIF](https://media1.giphy.com/media/Ozf4qM5aX1qUqwtmFF/giphy.gif)
