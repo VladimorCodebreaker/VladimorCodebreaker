@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" src="https://25.media.tumblr.com/7ec8a5f476bf3eb7f19726316192d5e9/tumblr_mk7dnxrR6I1qcmi8ro1_500.gif" width="413" height="235" />
 
-Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated and passionate developer with a strong background in various programming languages and technologies. <br>I am always looking to learn new skills and take on challenging projects. <br>My experience includes building web applications, working with databases, and developing automation tools. <br>I am committed to writing clean, efficient, and maintainable code. <br>Take a look at my portfolio and feel free to reach out if you have any questions.<br>Cheers 🫠
+Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated and passionate developer with a strong background in various programming languages and technologies. <br>I am always looking to learn new skills and take on challenging projects. <br>My experience includes building web applications, working with databases, and developing automation tools. <br>I am committed to writing clean, efficient, and maintainable code. <br>Take a look at my portfolio and feel free to reach out if you have any questions.<br><br>Cheers 🫠
 
-<br/>
+<br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vladimir-schmadlak-4981a6238) 
@@ -22,5 +22,5 @@ Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated an
 ## 💰 You can help me by Donating :)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vova0606) 
 
-<br/>
+<br>
 <img src="https://media.indiedb.com/images/groups/1/1/84/tumblr_mz8w9gxDNZ1sz6ufao1_500.gif" width="20%">
