@@ -1,4 +1,8 @@
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  About Me:
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  
+**About Me:**
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/pixel-night.gif" width="413" height="235" />
+
 Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated and passionate developer with a strong background in various programming languages and technologies. <br>I am always looking to learn new skills and take on challenging projects. <br>My experience includes building web applications, working with databases, and developing automation tools. <br>I am committed to writing clean, efficient, and maintainable code. <br>Take a look at my portfolio and feel free to reach out if you have any questions.<br>Cheers 🫠
 
 
