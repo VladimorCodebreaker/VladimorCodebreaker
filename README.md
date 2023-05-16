@@ -2,8 +2,6 @@
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/4ac57db98021ffd3a4e6717dee097802/aa44282323a3c36a-66/s500x750/727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif" width="413" height="250" />
 
-<br>
-
 Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated and passionate developer with a strong background in various programming languages and technologies. <br>I am always looking to learn new skills and take on challenging projects. <br>My experience includes building web applications, working with databases, and developing automation tools. <br>I am committed to writing clean, efficient, and maintainable code. <br>Take a look at my portfolio and feel free to reach out if you have any questions.<br><br>Cheers 🫠
 
 <br>
