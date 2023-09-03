@@ -20,7 +20,7 @@ Hi there, I'm Vlad. Welcome to my GitHub profile! <br>I am a highly motivated an
 [![](https://visitcount.itsvg.in/api?id=VladimorCodebreaker&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating :)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vova0606) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/) 
 
 <br>
 <div style="display:flex; align-items:center;">
